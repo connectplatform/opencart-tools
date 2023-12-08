@@ -44,4 +44,4 @@ The script will handle the rest, including database creation and data import.
 - Ensure that the MySQL user has sufficient privileges to perform all database operations.
 
 ## License
-This project is licensed under the MIT License - see the (LICENSE)[/LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
